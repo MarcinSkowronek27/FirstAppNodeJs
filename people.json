@@ -1,0 +1,162 @@
+[
+  {
+    "gender": "F",
+    "firstName": "Grażyna",
+    "lastName": "Grabowski",
+    "age": 39,
+    "phone": 849036128,
+    "email": "Grażyna.Grabowski@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Adam",
+    "lastName": "Grabowski",
+    "age": 24,
+    "phone": 762341607,
+    "email": "Adam.Grabowski@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Henia",
+    "lastName": "Kowalski",
+    "age": 21,
+    "phone": 861272026,
+    "email": "Henia.Kowalski@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Ania",
+    "lastName": "Nowak",
+    "age": 30,
+    "phone": 826149079,
+    "email": "Ania.Nowak@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Adam",
+    "lastName": "Nowak",
+    "age": 23,
+    "phone": 717185984,
+    "email": "Adam.Nowak@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Ania",
+    "lastName": "Grabowski",
+    "age": 38,
+    "phone": 900022108,
+    "email": "Ania.Grabowski@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Robert",
+    "lastName": "Nowak",
+    "age": 25,
+    "phone": 868518089,
+    "email": "Robert.Nowak@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Grażyna",
+    "lastName": "Grabowski",
+    "age": 29,
+    "phone": 766311066,
+    "email": "Grażyna.Grabowski@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Adam",
+    "lastName": "Grabowski",
+    "age": 22,
+    "phone": 751461420,
+    "email": "Adam.Grabowski@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Adam",
+    "lastName": "Kowalski",
+    "age": 35,
+    "phone": 715747305,
+    "email": "Adam.Kowalski@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Wiesiek",
+    "lastName": "Kowalski",
+    "age": 38,
+    "phone": 740405571,
+    "email": "Wiesiek.Kowalski@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Ania",
+    "lastName": "Lesniowski",
+    "age": 28,
+    "phone": 816846840,
+    "email": "Ania.Lesniowski@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Henia",
+    "lastName": "Lesniowski",
+    "age": 33,
+    "phone": 835187258,
+    "email": "Henia.Lesniowski@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Ola",
+    "lastName": "Kowalski",
+    "age": 20,
+    "phone": 710828979,
+    "email": "Ola.Kowalski@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Henia",
+    "lastName": "Lesniowski",
+    "age": 35,
+    "phone": 864919921,
+    "email": "Henia.Lesniowski@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Adam",
+    "lastName": "Kowalski",
+    "age": 31,
+    "phone": 952142189,
+    "email": "Adam.Kowalski@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Michał",
+    "lastName": "Kowalski",
+    "age": 23,
+    "phone": 982539385,
+    "email": "Michał.Kowalski@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Robert",
+    "lastName": "Grabowski",
+    "age": 40,
+    "phone": 869700643,
+    "email": "Robert.Grabowski@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Ola",
+    "lastName": "Kowalski",
+    "age": 28,
+    "phone": 807871979,
+    "email": "Ola.Kowalski@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Henia",
+    "lastName": "Lesniowski",
+    "age": 26,
+    "phone": 799031498,
+    "email": "Henia.Lesniowski@gmail.com"
+  }
+]
